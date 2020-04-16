@@ -1,0 +1,23 @@
+{
+  "name": "webdriveriov5-jasmine-test-repo",
+  "version": "1.0.0",
+  "description": "--setup:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@wdio/cli": "^6.0.16",
+    "@wdio/jasmine-framework": "^6.0.16",
+    "@wdio/local-runner": "^6.0.16",
+    "@wdio/mocha-framework": "^6.0.16",
+    "@wdio/spec-reporter": "^6.0.16",
+    "@wdio/sync": "^6.0.16",
+    "chromedriver": "^81.0.0",
+    "jasmin": "0.0.2",
+    "wdio-chromedriver-service": "^6.0.1"
+  }
+}
